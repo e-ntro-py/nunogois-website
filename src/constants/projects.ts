@@ -9,18 +9,17 @@ export const EXPERIENCE = [
     url: 'https://www.getunleash.io/',
     role: 'Full Stack Developer (Senior)',
     date: '04/2022 - Current',
-    description: `Contributed to Unleash, an open-source feature flag management solution with over 21M docker pulls, 10K stars on GitHub and a worldwide user base consisting of more than 100K monthly active end-users, from individual developers to large enterprise companies.
-Assigned to the Enterprise Growth team, developed and often led the development of several key features for the product, including Service Accounts, Signals & Actions, Custom Root Roles, Groups, Personal Access Tokens (PATs), Login History, Multiple Project Roles, Environment Cloning, Tag Filtering, Network Visualization, Slack App, Banners, New Interactive Demo, and Search Filtering.
-Contributed to Unleash Edge, a highly-performant successor to Unleash Proxy written in Rust that allows for a more flexible, performant, resilient and scalable architecture.
-Integrated with Stripe for billing, involving multiple projects and third party integrations, enabling end-users to sign up and manage their paid plans through their Unleash instance.
-Created, developed and maintained multiple SDKs for the product, including Vue.js, Svelte, Solid, and React Native.
-Contributed with ideas and suggestions to the product roadmap, helping to shape the future of the product.
-Collaborated closely with the UI/UX team to identify and implement numerous improvements and fixes that significantly enhanced the end-user experience.
-Contributed to documentation, including the official docs and READMEs.
-Refactored and improved the codebase, improving maintainability and overall DX.
-Trained as Site Reliability Engineer (SRE) and performed on-call shifts to ensure platform availability and end-user satisfaction.
-Consistently provided valuable feedback and code reviews to fellow developers, improving code quality and maintaining high standards for the codebase.
-Shared knowledge and learned with teammates through pair and mob programming.`
+    description: `Contributed to Unleash, an open-source feature flag management platform with over 40M Docker pulls, 13.5K+ GitHub stars, and 100K+ monthly active users, from individual developers to Fortune 500 enterprises. Operated across the full breadth of the organization: core product, cloud infrastructure, SDKs, backoffice tooling, and internal systems.
+Assigned to the Enterprise Growth team and later the Self-Service Acceleration squad, consistently led and delivered high-impact features including Service Accounts, Signals & Actions, Custom Root Roles, Groups, Personal Access Tokens (PATs), Login History, Multiple Project Roles, Environment Cloning, Banners, Network Visualization, Slack App integration, and a fully interactive product demo, frequently owning projects end-to-end from discovery through GA.
+Owned and delivered Pay-As-You-Go (PAYG) billing autonomously, a revenue-critical initiative that became the primary self-serve growth driver. Self-serve ARR grew over 70% year-over-year, high-value accounts more than doubled within months, and average deal size increased ~30%.
+Contributed to Unleash Edge, a high-performance Rust-based successor to the Unleash Proxy, picking up Rust from scratch and quickly becoming a meaningful contributor to its core development.
+Led the cloud infrastructure migration away from Pulumi-based provisioning toward a backoffice-driven source of truth for cloud deployments, reducing costs and improving reliability at scale.
+Integrated Stripe billing across multiple projects and third-party systems, enabling users to self-manage subscriptions directly from their Unleash instance, a foundational pillar of the product-led growth motion.
+Created and maintained multiple SDKs including Vue.js, Svelte, Solid, and React Native, expanding Unleash's ecosystem reach. The Vue SDK surpassed 1.9K+ weekly downloads shortly after release.
+Trained as Site Reliability Engineer (SRE) and performed on-call shifts, incident command, and proactive monitoring across AWS/EKS infrastructure to ensure platform availability at scale.
+Acted as a knowledge bridge across disciplines, contributing expertise in full-stack development while continuously growing through close collaboration with teammates in infrastructure, platform engineering, and architecture.
+Leveraged AI-assisted development tools including GitHub Copilot since its early days and Claude Code, not just to accelerate delivery but as thinking partners for architectural debate, design tradeoffs, and code review.
+Built and open-sourced multiple proof-of-concept projects, including a VS Code extension, a browser extension, a CLI, and several framework SDKs.`
   },
   {
     name: 'Zoi',
@@ -28,12 +27,12 @@ Shared knowledge and learned with teammates through pair and mob programming.`
     url: 'https://en.zoi.tech/',
     role: 'Full Stack Developer (Specialist)',
     date: '06/2021 - 03/2022',
-    description: `Assigned to Digital Innovations, worked close to partners as a developer in exploratory projects using innovative cloud solutions.
-Developed a chatbot based on Google Cloud/Firebase, UI built with Quasar Framework (Vue.js) and a Google Cloud Function that acted as a bridge between the UI, Dialogflow CX (conversation flow, NLP), Contentful;
-Contributed to a React Native app project by developing features and fixes for the app, used by hundreds of thousands of end-users.
-Developed a mock package used internally for testing and debugging purposes, using Node.js, Express, Apollo GraphQL, MQTT.
-Followed best-practices and guidelines, including writing Unit and E2E tests.
-Worked on a dynamic multicultural team that follows an Agile/Scrum methodology.
+    description: `Assigned to Digital Innovations, worked closely with partners as a developer on exploratory projects using innovative cloud solutions.
+Developed a chatbot built on Google Cloud and Firebase, with a UI in Quasar Framework (Vue.js) and a Cloud Function bridging the UI, Dialogflow CX, and Contentful.
+Contributed to a React Native app used by hundreds of thousands of end-users, delivering features and bug fixes across the product lifecycle.
+Developed an internal mock package for testing and debugging purposes using Node.js, Express, Apollo GraphQL, and MQTT.
+Followed best practices throughout, including writing unit and E2E tests.
+Worked on a dynamic multicultural team following an Agile/Scrum methodology.
 Shared knowledge and learned with teammates through pair programming.`
   },
   {
@@ -42,15 +41,15 @@ Shared knowledge and learned with teammates through pair programming.`
     url: 'https://www.myagir.com/en/',
     role: 'Full Stack Developer (Lead, Architect)',
     date: '03/2011 - 05/2021',
-    description: `Developed AGIR ®, a Quality Management Software (QMS), Process Management (BPM) and Document control software. Worked on the platform since 2011: From ASP.NET, SQL Server, Web API, .NET WinForms or Java to Windows Services and Office Add-Ins, (...).
-Created specific features that give this platform a unique edge in flexibility - features like an intuitive drag & drop Form Designer, a custom JavaScript framework (based on jQuery, later Vue) and a business logic assistant (workflow, form logic) mean that it is able to adapt to every customer need, providing infinite possibilities.
-Worked close to the project manager and customers to ensure that every product meets requirements in a versatile, modern and performant way.
-Helped customers on every step - Configuration, deployment, troubleshooting, etc.
-Developed and provided APIs, tools and other custom mechanisms in order to adapt and integrate with existing solutions, databases and products.
-One of those tools/integrations included creating an extremely optimised data matrix code scanner from TIFF files in Python, using tools like numpy, CV2, Wand, and more.
-Developed a solid foundation for the company's next project, Wisibi, using Quasar Framework (Vue.js) and .NET Core Web API, following all the best practices.
-Managed the team's Trello, GitHub, Jenkins and other services.
-Shared knowledge with teammates through training.`
+    description: `Developed AGIR®, a Quality Management Software (QMS), Process Management (BPM), and Document Control platform. Worked on the platform across its full evolution: from ASP.NET, SQL Server, Web API, and .NET WinForms to Windows Services, Office Add-Ins, and beyond.
+Created signature features that give the platform a unique edge in flexibility, including an intuitive drag-and-drop Form Designer, a custom JavaScript framework (based on jQuery, later Vue), and a business logic assistant for workflow and form logic, enabling the platform to adapt to virtually any customer need.
+Worked closely with the project manager and customers to ensure every product delivery met requirements in a versatile, modern, and performant way.
+Supported customers across every stage: configuration, deployment, troubleshooting, and ongoing maintenance.
+Developed APIs, tools, and custom integration mechanisms to connect with existing solutions, databases, and third-party products.
+Built a highly optimized data matrix code scanner from TIFF files in Python, using numpy, CV2, Wand, and related libraries.
+Laid the technical foundation for the company's next product, Wisibi, using Quasar Framework (Vue.js) and .NET Core Web API, following modern best practices throughout.
+Managed the team's Trello, GitHub, Jenkins, and other services.
+Shared knowledge with teammates through training and mentorship.`
   }
 ]
 
